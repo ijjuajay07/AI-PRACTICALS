@@ -27,37 +27,7 @@ A collection of 12 Artificial Intelligence lab practicals implemented using Pyth
 - Artificial Intelligence
 - Machine Learning
 
-## ⚙️ Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/AI-PRACTICALS.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd  AI-PRACTICALS 
-   ```
-
-3. Install the required libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## ▶️ How to Run
-
-1. Open the required practical folder.
-2. Open the Python file.
-3. Run the program using Python:
-
-   ```bash
-   python practical_01.py
-   ```
-
-4. Check the output in the terminal.
+ 
 
 ## 📁 Repository Structure
 
