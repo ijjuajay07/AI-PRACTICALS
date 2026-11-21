@@ -32,13 +32,13 @@ A collection of 12 Artificial Intelligence lab practicals implemented using Pyth
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Artificial-Intelligence-Practicals.git
+   git clone https://github.com/your-username/AI-PRACTICALS.git
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd Artificial-Intelligence-Practicals
+   cd  AI-PRACTICALS 
    ```
 
 3. Install the required libraries:
@@ -93,7 +93,7 @@ Artificial-Intelligence-Practicals/
 
 ## 👨‍💻 Author
 
-**Venkata Sharath Kumar Jakki**
+**IJJU AJAY**
 
 B.Tech – Computer Science and Engineering (AI & ML)
 
